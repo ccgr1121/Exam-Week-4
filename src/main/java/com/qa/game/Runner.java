@@ -36,8 +36,10 @@ public class Runner {
 
 		} while (z>0);
 		
+		
+		if(z==0) {
 		System.out.println("You have found the portal to escape! You win!");
-
+		}
 	}
 
 }

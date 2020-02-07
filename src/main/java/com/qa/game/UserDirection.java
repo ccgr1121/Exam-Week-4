@@ -5,8 +5,8 @@ public class UserDirection {
 	String userDirection = UserInput.userDirection();{
 
 		/**
-		 * This takes the answer from the previous class, and modifies the distance required to reach the prize at the end.
-		 * It is not repeatable, and I can't get the damnn thing to work.
+		 * This takes the answer from the previous class,
+		 * and modifies the distance required to reach the prize at the end.
 		 */
 		
 		
